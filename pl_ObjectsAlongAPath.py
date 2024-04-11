@@ -2,7 +2,7 @@ bl_info = {
     "name": "Create Bendy Segment",
     "author": "Velaguez Szpiech",
     "version": (1, 0),
-    "blender": (2, 79, 0),
+    "blender": (2, 9, 0),
     "description": "Creates a path with evenly distributed controls",
     "warning": "",
     "wiki_url": "",
